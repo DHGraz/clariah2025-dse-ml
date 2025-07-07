@@ -603,8 +603,9 @@ strong {
 }
 
 .artists-hover {
+ 
   background-color: var(--primary-color);
-  background-color: rgba(248, 203, 46, 0.75);
+  background-color: rgba(35, 104, 217, 0.75);
   border-radius: var(--border-radius-medium);
   backdrop-filter: blur(5px) saturate(180%);
   -webkit-backdrop-filter: blur(5px) saturate(180%);
@@ -619,6 +620,11 @@ strong {
   opacity: 0;
 }
 
+.artists-hover p  {
+  color: var(--white-color);
+  display: inline-block;
+ 
+}
 .artists-hover p strong {
   color: var(--white-color);
   display: inline-block;
