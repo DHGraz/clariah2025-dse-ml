@@ -4,5 +4,5 @@
 
 11:00-12:30: Machine learning and DSE wrap up (Sarah Lang)
 
-13:30-15:00: Keynote: Ulrike Henny-Krahmer
+13:30-15:00: Keynote by Ulrike Henny-Krahmer
 
