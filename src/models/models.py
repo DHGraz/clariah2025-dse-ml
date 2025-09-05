@@ -4,10 +4,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 
 
 class TfIdfEmbedder(BaseEmbedder):
-    def __init__(self, vocabulary: list[str] | None = None, min_df=5, stop_words='english'):
+    def __init__(self, vocabulary: list[str] | None = None, *args, **kwargs):
         super().__init__()
-        self.embedding_model: TfidfVectorizer = TfidfVectorizer(min_df=min_df,
-                                                                stop_words=stop_words)
+        self.embedding_model: TfidfVectorizer = TfidfVectorizer(*args, **kwargs)
         self.vocabulary = vocabulary
         if vocabulary is not None:
             self.embedding_model.fit(self.vocabulary)
@@ -21,11 +20,9 @@ class TfIdfEmbedder(BaseEmbedder):
 
 
 class CountVectorizerEmbedder(BaseEmbedder):
-    def __init__(self, vocabulary: list[str] | None = None, min_df=5, stop_words='english', n_gram_range=(1, 3)):
+    def __init__(self, vocabulary: list[str] | None = None, *args, **kwargs):
         super().__init__()
-        self.embedding_model: CountVectorizer = CountVectorizer(min_df=min_df,
-                                                                ngram_range=n_gram_range,
-                                                                stop_words=stop_words)
+        self.embedding_model: CountVectorizer = CountVectorizer(*args, **kwargs)
         self.vocabulary = vocabulary
         if vocabulary is not None:
             self.embedding_model.fit(self.vocabulary)
