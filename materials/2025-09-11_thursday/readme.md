@@ -8,4 +8,6 @@
 13:30-15:00: Built your BERTopic pipeline (Roman Bleier, Sarah Lang, Martina Scholger)
 
 15:30-17:00: Experiments (Selina Galka, Michael Otto, Roman Bleier, Martina Scholger)
+- slides (Otto): https://docs.google.com/presentation/d/1-dmiLZyPI3-NUxePHizBJ74QVM5jM9El/edit?usp=sharing&ouid=106990283954699584701&rtpof=true&sd=true
+- materials (Otto): https://github.com/MichaelHMOtto/BERTopic-DDH25
 
