@@ -1,4 +1,4 @@
-# School Material Tuesday, 9 September 2025
+# School Material Friday, 12 September 2025
 
 9:00-10:30: Experiments (Michael Otto)
 
