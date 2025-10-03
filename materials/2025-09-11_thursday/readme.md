@@ -1,4 +1,4 @@
-# School Material Tuesday, 9 September 2025
+# School Material Thursday, 11 September 2025
 
 9:00-10:30: Tokenization and weighting (Klara Venglarova)
 - slides: https://docs.google.com/presentation/d/1iyWn6TMjtWfCBhb88F5iV5CF8c1vRHzRkENOF_7gbN4/edit?usp=sharing
