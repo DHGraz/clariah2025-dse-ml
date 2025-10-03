@@ -31,4 +31,17 @@ The Hugo Schuchardt Archive provides insight into the life and work of the lingu
 Hurch, Bernhard (Hrsg.): Hugo Schuchardt Archiv. Graz: Institut für Sprachwissenschaft, Universität Graz. 2022. URL: http://schuchardt.uni-graz.at. 
 
 
-# Parlamint
+# ParlaMint 
+
+## Licensing
+CC-BY 4.0
+
+## Project Description
+The CLARIN ERIC flagship project ParlaMint enables transnational and multidisciplinary analyses of parliamentary debates across 29 countries and autonomous regions in Europe. The brief description is from the ParlaMint website: https://www.clarin.eu/parlamint
+
+## ParlaMint Dataset in this Repository
+A very small subset of the ParlaMint data—the English translations of Icelandic and Italian debates from 2022—was transformed into a TSV file and used for exercises with BERTopic during the school. The data was transformed from the XML-Version of the ParlaMint corpus.
+
+## Citation Information of the ParlaMint Corpusssss
+
+Kuzman Pungeršek, Taja; et al., 2025, Linguistically annotated multilingual comparable corpora of parliamentary debates in English ParlaMint-en.ana 5.0, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042, http://hdl.handle.net/11356/2006. 
