@@ -20,4 +20,5 @@ https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 13:30-15:00: Keynote by Ulrike Henny-Krahmer
 
 Blog posts and reports by participants:
- - Giada Pantana https://www.linkedin.com/feed/update/urn:li:activity:7373028303550619648/
+ - Giada Pantana: https://www.linkedin.com/feed/update/urn:li:activity:7373028303550619648/; https://dhphd.hypotheses.org/6330
+ - Michael Otto: https://www.linkedin.com/feed/update/urn:li:activity:7380901178580156416/ 

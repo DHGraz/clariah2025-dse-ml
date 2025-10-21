@@ -9,7 +9,7 @@
 - Clausen, Hans. Editorische Datensilos öffnen
 - Galka, Selina. Digital Edition of Historical Memoirs: Studies and Analyses
 - Grigoriou, Dimitra. Die Edition der Ministerratsprotokolle 1848–1918
-- Ishii, Kohei. Establishing a Digital Platform for Tracking the Influence of Public Discourse in Environmental Policy-making 
+- Ishii, Kohei. Establishing a Digital Platform for Tracking the Influence of Public Discourse in Environmental Policy-making [https://doi.org/10.5281/zenodo.17402584](https://doi.org/10.5281/zenodo.17402584)
 - Pantana, Giada. Informal Language Acquisition Framework with Language Technologies. [https://doi.org/10.5281/zenodo.17130421](https://doi.org/10.5281/zenodo.17130421)
 - Sapov-Erlinger, Oleksii. A Music Edition for the Readership of the 21st Century. The Digital Interactive Mozart Edition (DIME)
 - Sichrovsky, Dorothea. Dialogues and Dialogical Passages in the Vorau Manuscript 276
