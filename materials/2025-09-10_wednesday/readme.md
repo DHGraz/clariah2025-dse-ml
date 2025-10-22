@@ -14,6 +14,6 @@
 - Sapov-Erlinger, Oleksii. A Music Edition for the Readership of the 21st Century. The Digital Interactive Mozart Edition (DIME)
 - Sichrovsky, Dorothea. Dialogues and Dialogical Passages in the Vorau Manuscript 276
 - Stindl-Liang, Stefanie. Stage – Marriage – Family: Henriette Sontag
-- Ureña-Asensio, Inmaculada. Textual alignment in a digital scholarly edition of Utopia de Thomas Moro (1637)
+- Ureña-Asensio, Inmaculada. Textual alignment in a digital scholarly edition of Utopia de Thomas Moro (1637). [https://zenodo.org/records/17372009](https://zenodo.org/records/17372009) 
 
 from 13:30: excursion and social event
